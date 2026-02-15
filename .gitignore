@@ -1,0 +1,26 @@
+# Environments
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+chata/
+bin/
+lib/
+include/
+share/
+
+# Editor
+.vscode/
+.idea/
+
+# Google API credentials
+credentials.json
+
+# Logs
+*.log
